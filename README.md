@@ -17,3 +17,7 @@ https://alexhedley.github.io/Gigs/
 From: http://alexhedley.com/music/
 
 2013: https://web.archive.org/web/20131211120614/http://alexhedley.com/music/
+
+## Run
+
+`py -m http.server`

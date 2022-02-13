@@ -1,0 +1,60 @@
+.ticket {
+    border: 1px solid black;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.artist {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.ticket-number {
+    text-align: right;
+}
+
+/* --- */
+/* https://jsfiddle.net/6a10moz1/3/ */
+
+/* .one, .two {
+    height: 200px;
+} */
+.one {
+    background: #DDD;
+}
+.two {
+    background-size: cover;
+    /* top: -60px; */
+    z-index: -10;
+    position: relative;
+}
+.zigzag-bottom:after {
+    background: linear-gradient(135deg, black 16px, transparent 0), linear-gradient(225deg, grey 16px, transparent 0);
+    background-position: left top;
+    top: 100%;
+    background-repeat: repeat-x;
+    background-size: 30px 20px;
+    content:" ";
+    left: 0px;
+    width: 100%;
+    height: 20px;
+}
+.zigzag-bottom {
+    position: relative;
+    padding: 0px 8px 0px 8px;
+    background: #ddd;
+}
+.zigzag-bottom:after {
+    background: linear-gradient(135deg, black 16px, transparent 0), linear-gradient(225deg, grey 16px, transparent 0);
+    background-position: left top;
+    background-repeat: repeat-x;
+    background-size: 32px 32px;
+    content: " ";
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 32px;
+}

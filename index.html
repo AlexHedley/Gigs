@@ -15,6 +15,7 @@
     <!-- <link rel="stylesheet" href="css/jquery-ui.min.css"> -->
     <link rel="stylesheet" href="css/jquery-ui.1.12.1.min.css">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/ticket.css">
 
     <link rel="shortcut icon" href="favicon.ico">
 
@@ -47,19 +48,67 @@
         <div ng-controller="myController">
 
             <div class="container">
+
+                
+
                 <div class="row justify-content-md-center">
-                    
+                    <div class="">
+
+                        <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li ng-repeat="game in games" data-target="#carouselExampleCaptions" data-slide-to="{{$index}}"></li>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div ng-repeat="gig in list | orderBy:'-GigID'" class="carousel-item" ng-class='{active:$first}'>
+                                    
+                                    <div class="row">
+                                        <div class="col">
+                                            <div class="zigzag-top"></div>
+                                            <section class="one"></section>
+                                            <div class="zigzag-bottom"></div>
+                                            <section class="two">
+                                                <div class="ticket">
+                                                    <p></p>
+                                                    <p>{{gig.Venue}} presents</p>
+                                                    <p class="artist">{{gig.Musician}}</p>
+                                                    <p>Plus special guests ({{gig.Support}})</p>
+                                                    <p>{{gig.GigDate | toDate | date:'mediumDate'}}</p>
+                                                    <p>{{gig.Venue}}</p>
+                                                    <p>{{gig.Place}}</p>
+                                                    <p>{{gig.Price}} Advance (Subject to Booking Fee)</p>
+                                                    <p>Doors {{gig.Doors}}pm</p>
+                                                    <p>R.O.A.R. To be retained</p>
+                                                    <p class="ticket-number">{{gig.TicketNumber}}</p>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+
+                    </div>
                 </div>
 
-                <div class="row" ng-repeat="gig in list | filter:searchText">
-                    <h3>{{gig.Musician}}</h3>
-                    <p>&nbsp;[{{gig.GigID}}]</p>
-                    <p>&nbsp;({{gig.GigDate}})</p>
-                    <br />
-                    <div ng-bind-html="gig.Info"></div>
-                    <p>[{{gig.Venue}}]</p>
-                    <p>[{{gig.Place}}]</p>
-                    <!-- <p>[{{gig.DateAdded}}]</p> -->
+                <div class="row" ng-repeat="gig in list | orderBy:'-GigID' | filter:searchText">
+                    <div class="col">
+                        <h3>{{gig.Musician}}</h3>
+                        <!-- <p>[{{gig.GigID}}]</p> -->
+                        <p>({{gig.GigDate | toDate | date:'mediumDate'}})</p>
+                        <!-- | date:'d MMM yyyy' -->
+                        <p ng-bind-html="gig.Info"></p>
+                        <p>[{{gig.Venue}}] | [{{gig.Place}}]</p>
+                        <!-- <p>[{{gig.DateAdded}}]</p> -->
+                    </div>
                     <hr />
                 </div>
 
