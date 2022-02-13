@@ -241,5 +241,14 @@
       "GigDate": "2019-12-14 00:00:00 +0000",
       "Info": "Can't not enjoy The Darkness, they played the new album in the first set, then the old favourites for the second. Sang along, great evening. The Rews were support, enjoyed them, got their vinyl, of course.",
       "DateAdded": "2019-12-15 00:00:00 +0000"
+    },
+    {
+      "GigID": 28,
+      "Musician": "John Smith",
+      "Venue": "Gosforth Civic Theatre",
+      "Place": "Newcastle",
+      "GigDate": "2021-09-28 00:00:00 +0000",
+      "Info": "Hannah Read Support",
+      "DateAdded": "2022-02-13 11:00:00 +0000"
     }
   ]
