@@ -18,6 +18,10 @@ From: http://alexhedley.com/music/
 
 2013: https://web.archive.org/web/20131211120614/http://alexhedley.com/music/
 
+## Example
+
+![Ticket Example](images/Ticket_Example.png "Ticket Example")
+
 ## Run
 
 `py -m http.server`
