@@ -278,5 +278,15 @@
     "Info": "And In The End: With Royal Liverpool Philharmonic Orchestra and The Bootleg Beatles",
     "DateAdded": "2022-11-03 11:30:00 +0000",
     "link": "https://sagegateshead.com/whats-on/rlpo-bootleg-beatles/"
+  },
+  {
+    "GigID": 32,
+    "Musician": "John Smith & Katherine Priddy",
+    "Venue": "The Fire Station",
+    "Place": "Sunderland",
+    "GigDate": "2022-11-02 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2022-11-03 11:30:00 +0000",
+    "link": "https://sunderlandculture.org.uk/events/john-smith-katherine-priddy/"
   }
 ]
