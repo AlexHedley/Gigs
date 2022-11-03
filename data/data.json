@@ -268,5 +268,15 @@
     "GigDate": "2022-02-12 19:30:00 +0000",
     "Info": "Dillon Warnek",
     "DateAdded": "2022-02-13 11:00:00 +0000"
+  },
+  {
+    "GigID": 31,
+    "Musician": "The Bootleg Beatles",
+    "Venue": "Sage",
+    "Place": "Gateshead",
+    "GigDate": "2022-07-15 19:30:00 +0000",
+    "Info": "And In The End: With Royal Liverpool Philharmonic Orchestra and The Bootleg Beatles",
+    "DateAdded": "2022-11-03 11:30:00 +0000",
+    "link": "https://sagegateshead.com/whats-on/rlpo-bootleg-beatles/"
   }
 ]
