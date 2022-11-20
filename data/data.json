@@ -297,5 +297,15 @@
     "Info": "",
     "DateAdded": "2022-11-03 11:30:00 +0000",
     "link": "https://sunderlandculture.org.uk/events/john-smith-katherine-priddy/"
+  },
+  {
+    "GigID": 34,
+    "Musician": "Jason Isbell and the 400 Unit",
+    "Venue": "02 Apollo",
+    "Place": "Manchester",
+    "GigDate": "2022-11-18 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2022-11-20 13:00:00 +0000",
+    "link": "https://www.academymusicgroup.com/o2apollomanchester/events/1312764/jason-isbell-and-400-unit-tickets"
   }
 ]
