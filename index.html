@@ -49,8 +49,6 @@
 
             <div class="container">
 
-                
-
                 <div class="row justify-content-md-center">
                     <div class="">
 
@@ -99,17 +97,29 @@
                     </div>
                 </div>
 
-                <div class="row" ng-repeat="gig in list | orderBy:'-GigID' | filter:searchText">
-                    <div class="col">
-                        <h3>{{gig.Musician}}</h3>
-                        <!-- <p>[{{gig.GigID}}]</p> -->
-                        <p>({{gig.GigDate | toDate | date:'mediumDate'}})</p>
-                        <!-- | date:'d MMM yyyy' -->
-                        <p ng-bind-html="gig.Info"></p>
-                        <p>[{{gig.Venue}}] | [{{gig.Place}}]</p>
-                        <!-- <p>[{{gig.DateAdded}}]</p> -->
+                <br />
+
+                <div class="row">
+                    <div 
+                        ng-repeat="gig in list | orderBy:'-GigID' | filter:searchText"
+                        class="col-md-3"
+                        style="margin-bottom: 50px;"
+                    >
+                        <div class="card" style="width: 18rem;" data-id="{{gig.GigID}}">
+                            <img ng-if="gig.image.length > 0" ng-src="/Gigs/{{gig.image}}" class="card-img-top" alt="{{gig.Musician}}">
+                            <div class="card-header">
+                                {{gig.Musician}}
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">{{gig.Venue}}</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">{{gig.Place}}</h6>
+                                <p class="card-text"><div ng-bind-html="gig.Info"></div></p>
+                            </div>
+                            <div class="card-footer text-muted">
+                                {{gig.GigDate | toDate | date:'mediumDate'}}
+                            </div>
+                        </div>
                     </div>
-                    <hr />
                 </div>
 
             </div>
