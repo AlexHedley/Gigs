@@ -114,6 +114,7 @@
                                 <h5 class="card-title">{{gig.Venue}}</h5>
                                 <h6 class="card-subtitle mb-2 text-muted">{{gig.Place}}</h6>
                                 <p class="card-text"><div ng-bind-html="gig.Info"></div></p>
+                                <p ng-if="gig.Support.length > 0" class="card-text">{{gig.Support}}</p>
                             </div>
                             <div class="card-footer text-muted">
                                 {{gig.GigDate | toDate | date:'mediumDate'}}
