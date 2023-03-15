@@ -25,3 +25,10 @@ From: http://alexhedley.com/music/
 ## Run
 
 `py -m http.server`
+
+## Docs
+
+- [Docs](docs/README.md)
+- [Contributors](docs/CONTRIBUTORS.md)
+- [Acknowledgements](docs/ACKNOWLEDGEMENTS.md)
+- [Changelog](docs/CHANGELOG.md)
