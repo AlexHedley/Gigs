@@ -330,5 +330,17 @@
     "DateAdded": "2023-03-15 17:30:00 +0000",
     "link": "",
     "image": "images/DavidFord_2023.jpg"
+  },
+  {
+    "GigID": 37,
+    "Musician": "Jarrod Dickenson",
+    "Support": "JP Ruggieri",
+    "Venue": "The Cluny",
+    "Place": "Newcastle",
+    "GigDate": "2023-03-29 20:00:00 +0000",
+    "Info": "Big Talk - Full Band Tour",
+    "DateAdded": "2023-04-01 16:30:00 +0000",
+    "link": "",
+    "image": "images/JarrodDickenson_2023.jpeg"
   }
 ]
