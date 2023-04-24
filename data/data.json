@@ -234,6 +234,18 @@
     "DateAdded": "2015-05-24 09:09:53 +0000"
   },
   {
+    "GigID": 0,
+    "Musician": "Dan Owen",
+    "Support": "Callum Pitt + Eve Conway",
+    "Venue": "Think Tank",
+    "Place": "Newcastle",
+    "GigDate": "2017-04-04 19:30:00 +0000",
+    "Info": "£8/£10",
+    "DateAdded": "2023-04-24 12:00:00 +0000",
+    "link": "",
+    "image": "images/DanOwen_2017.jpeg"
+  },
+  {
     "GigID": 27,
     "Musician": "The Darkness",
     "Venue": "The O2 Academy, Newcastle",
