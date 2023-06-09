@@ -354,5 +354,18 @@
     "DateAdded": "2023-04-01 16:30:00 +0000",
     "link": "",
     "image": "images/JarrodDickenson_2023.jpeg"
+  },
+  {
+    "GigID": 38,
+    "Musician": "Emma Rawicz",
+    "Support": "j2oh",
+    "Venue": "The Sage",
+    "Place": "Gateshead",
+    "GigDate": "2023-06-09 20:00:00 +0000",
+    "Info": "",
+    "DateAdded": "2023-06-09 23:00:00 +0000",
+    "link": "https://sagegateshead.com/whats-on/emma-rawicz/",
+    "image": "images/EmmaRawicz.jpg"
   }
+  
 ]
