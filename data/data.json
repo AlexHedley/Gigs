@@ -246,6 +246,16 @@
     "DateAdded": "2015-01-03 06:36:25 +0000"
   },
   {
+    "GigID": 0,
+    "Musician": "Duke Special",
+    "Venue": "The Sage",
+    "Place": "Gateshead",
+    "GigDate": "2015-04-19",
+    "Info": "",
+    "Link": "https://alexhedley.wordpress.com/2015/04/23/duke-special-at-sage-gateshead-on-19th-april-2015/",
+    "DateAdded": "2023-06-19 20:00:00 +0000"
+  },
+  {
     "GigID": 26,
     "Musician": "David Ford",
     "Venue": "The Cluny",
