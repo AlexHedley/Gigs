@@ -303,6 +303,18 @@
   {
     "GigID": 0,
     "Musician": "David Ford",
+    "Support": "Michele Stodart, JP Ruggieri",
+    "Venue": "The Cluny",
+    "Place": "Newcastle",
+    "GigDate": "2017-06-06",
+    "Info": "",
+    "DateAdded": "2023-06-19 20:00:00 +0000",
+    "link": "",
+    "image": ""
+  },
+  {
+    "GigID": 0,
+    "Musician": "David Ford",
     "Support": "",
     "Venue": "The Cluny",
     "Place": "Newcastle",
