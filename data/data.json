@@ -246,6 +246,18 @@
     "image": "images/DanOwen_2017.jpeg"
   },
   {
+    "GigID": 0,
+    "Musician": "The Lake Poets",
+    "Support": "",
+    "Venue": "The Cluny 2",
+    "Place": "Newcastle",
+    "GigDate": "2017-04-28 20:00:00 +0000",
+    "Info": "£8/£10",
+    "DateAdded": "2023-06-19 20:00:00 +0000",
+    "link": "",
+    "image": "images/TheLakePoets_2017.jpeg"
+  },
+  {
     "GigID": 27,
     "Musician": "The Darkness",
     "Venue": "The O2 Academy, Newcastle",
