@@ -247,6 +247,18 @@
   },
   {
     "GigID": 0,
+    "Musician": "Foxes",
+    "Support": "",
+    "Venue": "Riverside",
+    "Place": "Newcastle",
+    "GigDate": "2016-06-14",
+    "Info": "",
+    "DateAdded": "2023-04-24 12:00:00 +0000",
+    "link": "",
+    "image": "images/Foxes_2016.jpeg"
+  },
+  {
+    "GigID": 0,
     "Musician": "Dan Owen",
     "Support": "Callum Pitt + Eve Conway",
     "Venue": "Think Tank",
