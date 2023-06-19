@@ -282,6 +282,18 @@
     "image": "images/TheLakePoets_2017.jpeg"
   },
   {
+    "GigID": 0,
+    "Musician": "David Ford",
+    "Support": "",
+    "Venue": "The Cluny",
+    "Place": "Newcastle",
+    "GigDate": "2019-10-16",
+    "Info": "",
+    "DateAdded": "2023-06-19 20:00:00 +0000",
+    "link": "",
+    "image": "images/DavidFord_2019.jpeg"
+  },
+  {
     "GigID": 27,
     "Musician": "The Darkness",
     "Venue": "The O2 Academy, Newcastle",
