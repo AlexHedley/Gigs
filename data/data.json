@@ -163,6 +163,15 @@
   },
   {
     "GigID": 0,
+    "Musician": "Bryan Ferry",
+    "Venue": "City Hall",
+    "Place": "Newcastle",
+    "GigDate": "2007-06-24",
+    "Info": "",
+    "DateAdded": "2023-06-19 20:00:00 +0000"
+  },
+  {
+    "GigID": 0,
     "Musician": "David Ford",
     "Support": "",
     "Venue": "",
