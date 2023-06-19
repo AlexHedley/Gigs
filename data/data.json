@@ -366,6 +366,17 @@
     "DateAdded": "2023-06-09 23:00:00 +0000",
     "link": "https://sagegateshead.com/whats-on/emma-rawicz/",
     "image": "images/EmmaRawicz.jpg"
+  },
+  {
+    "GigID": 39,
+    "Musician": "David Ford | Abe Partridge",
+    "Support": "",
+    "Venue": "The Old Cinema Laundrette",
+    "Place": "Durham",
+    "GigDate": "2023-06-17 19:30:00 +0000",
+    "Info": "The Southern Gentlemen Tour 2023",
+    "DateAdded": "2023-06-19 20:00:00 +0000",
+    "link": "",
+    "image": "images/DavidFord_2023.jpg"
   }
-  
 ]
