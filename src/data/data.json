@@ -481,5 +481,17 @@
     "DateAdded": "2023-07-04 08:30:00 +0000",
     "link": "https://www.academymusicgroup.com/o2cityhallnewcastle/events/1413994/hozier-tickets",
     "image": "images/Hozier_2023.jpg"
+  },
+  {
+    "GigID": 51,
+    "Musician": "Norah Jones",
+    "Support": "Emily Elbert",
+    "Venue": "The Glasshouse",
+    "Place": "Gateshead",
+    "GigDate": "2023-11-04 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2023-11-11 16:00:00 +0000",
+    "link": "https://theglasshouseicm.org/whats-on/norah-jones-2023/",
+    "image": "images/NorahJones_2023.jpeg"
   }
 ]
