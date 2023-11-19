@@ -1,5 +1,17 @@
 [
   {
+    "GigID": 0,
+    "Musician": "Eddi Reader",
+    "Support": "Nick Harper",
+    "Venue": "The Newcastle Opera House",
+    "Place": "Newcastle",
+    "GigDate": "2003-05-24 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2023-11-19 16:00:00 +0000",
+    "link": "",
+    "image": "images/EddiReader.jpeg"
+  },
+  {
     "GigID": 1,
     "Musician": "Francis Dunnery",
     "Venue": "Tyne Journal Theatre",
@@ -325,6 +337,18 @@
     "image": ""
   },
   {
+    "GigID": 0,
+    "Musician": "Roy Harper",
+    "Support": "",
+    "Venue": "The Sage",
+    "Place": "Gateshead",
+    "GigDate": "2019-03-20",
+    "Info": "",
+    "DateAdded": "2023-11-19 16:00:00 +0000",
+    "link": "",
+    "image": "images/RoyHarper_2019.jpeg"
+  },
+  {
     "GigID": 36,
     "Musician": "David Ford",
     "Support": "",
@@ -490,7 +514,7 @@
     "Place": "Gateshead",
     "GigDate": "2023-11-04 19:30:00 +0000",
     "Info": "",
-    "DateAdded": "2023-11-11 16:00:00 +0000",
+    "DateAdded": "2023-11-19 16:00:00 +0000",
     "link": "https://theglasshouseicm.org/whats-on/norah-jones-2023/",
     "image": "images/NorahJones_2023.jpeg"
   }
