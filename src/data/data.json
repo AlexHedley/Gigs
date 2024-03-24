@@ -1,6 +1,18 @@
 [
   {
     "GigID": 0,
+    "Musician": "Roy Harper",
+    "Support": "Nick Harper",
+    "Venue": "Royal Festival Hall",
+    "Place": "London",
+    "GigDate": "2001-06-10 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "",
+    "image": "images/RoyHarper_2001.jpeg"
+  },
+  {
+    "GigID": 0,
     "Musician": "Eddi Reader",
     "Support": "Nick Harper",
     "Venue": "The Newcastle Opera House",
@@ -274,7 +286,8 @@
     "Place": "Newcastle",
     "GigDate": "2015-05-06 00:00:00 +0000",
     "Info": "First time ever I was a little disappointed.\nThe setup wasn't as great as usual, a few instruments were off and the harmonica broke.\n\nStill great to see him and got a tea towel so all is good.",
-    "DateAdded": "2015-05-24 09:09:53 +0000"
+    "DateAdded": "2015-05-24 09:09:53 +0000",
+    "image": "images/DavidFord_2015.png"
   },
   {
     "GigID": 31,
@@ -287,6 +300,18 @@
     "DateAdded": "2023-04-24 12:00:00 +0000",
     "link": "",
     "image": "images/Foxes_2016.jpeg"
+  },
+  {
+    "GigID": 0,
+    "Musician": "The Lake Poets",
+    "Support": "Rachel Sermanni",
+    "Venue": "Sage",
+    "Place": "Gateshead",
+    "GigDate": "2016-12-03",
+    "Info": "",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "https://www.facebook.com/events/s/the-lake-poets-plus-rachel-ser/1574601782843223/",
+    "image": "images/TheLakePoets_2016.jpeg"
   },
   {
     "GigID": 32,
@@ -322,7 +347,19 @@
     "Info": "",
     "DateAdded": "2023-06-19 20:00:00 +0000",
     "link": "",
-    "image": ""
+    "image": "images/DavidFord_2017.jpeg"
+  },
+  {
+    "GigID": 0,
+    "Musician": "John Smith",
+    "Support": "",
+    "Venue": "Sage",
+    "Place": "Gateshead",
+    "GigDate": "2017-10-17",
+    "Info": "",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "",
+    "image": "images/JohnSmith_2017.png"
   },
   {
     "GigID": 35,
@@ -359,6 +396,18 @@
     "DateAdded": "2023-06-19 20:00:00 +0000",
     "link": "",
     "image": "images/DavidFord_2019.jpeg"
+  },
+  {
+    "GigID": 0,
+    "Musician": "Jarrod Dickenson",
+    "Support": "",
+    "Venue": "The Cluny 2",
+    "Place": "Newcastle",
+    "GigDate": "2019-12-03 19:30:00 +0000",
+    "Info": "Unplugged & Distilled, got a Christmas decoration beer matt",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "",
+    "image": "images/JarrodDickenson_2019.jpeg"
   },
   {
     "GigID": 37,
@@ -508,6 +557,18 @@
   },
   {
     "GigID": 51,
+    "Musician": "Newton Faulkner",
+    "Support": "Nati",
+    "Venue": "Riverside",
+    "Place": "Newcastle",
+    "GigDate": "2023-10-27 19:00:00 +0000",
+    "Info": "",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "https://www.seetickets.com/event/newton-faulkner/the-riverside/2717062",
+    "image": "images/NewtonFaulkner_2023.jpg"
+  },
+  {
+    "GigID": 52,
     "Musician": "Norah Jones",
     "Support": "Emily Elbert",
     "Venue": "The Glasshouse",
@@ -517,5 +578,65 @@
     "DateAdded": "2023-11-19 16:00:00 +0000",
     "link": "https://theglasshouseicm.org/whats-on/norah-jones-2023/",
     "image": "images/NorahJones_2023.jpeg"
+  },
+  {
+    "GigID": 53,
+    "Musician": "Nati",
+    "Support": "",
+    "Venue": "The Cluny",
+    "Place": "Newcastle",
+    "GigDate": "2023-11-28 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "",
+    "image": "images/Nati.jpeg"
+  },
+  {
+    "GigID": 54,
+    "Musician": "The Darkness",
+    "Support": "",
+    "Venue": "02 City Hall",
+    "Place": "Newcastle",
+    "GigDate": "2023-12-07 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "",
+    "image": "images/TheDarkness_2023.jpg"
+  },
+  {
+    "GigID": 0,
+    "Musician": "Nick Harper",
+    "Support": "",
+    "Venue": "The Masque",
+    "Place": "Liverpool",
+    "GigDate": "2010-04-12 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "",
+    "image": ""
+  },
+  {
+    "GigID": 55,
+    "Musician": "Nick Harper",
+    "Support": "",
+    "Venue": "The Old Cinema Laundrette",
+    "Place": "Durham",
+    "GigDate": "2024-01-27 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "",
+    "image": "images/NickHarperJan2024.jpeg"
+  },
+  {
+    "GigID": 56,
+    "Musician": "Nick Harper",
+    "Support": "",
+    "Venue": "The Cluny 2",
+    "Place": "Newcastle",
+    "GigDate": "2024-03-23 19:30:00 +0000",
+    "Info": "",
+    "DateAdded": "2024-03-24 14:00:00 +0000",
+    "link": "",
+    "image": "images/NickHarperMarch2024.jpeg"
   }
 ]
