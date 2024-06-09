@@ -629,6 +629,19 @@
   },
   {
     "GigID": 56,
+    "Musician": "Raye",
+    "Support": "",
+    "Venue": "NX",
+    "Place": "Newcastle",
+    "GigDate": "2024-02-28T19:00:00+00:00",
+    "Info": "Original 1st Dec 2023",
+    "DateAdded": "2024-06-09T16:00:00+00:00",
+    "link": "https://www.nxnewcastle.com/events/raye/",
+    "image": "images/Raye.jpeg",
+    "missed": true
+  },
+  {
+    "GigID": 57,
     "Musician": "Nick Harper",
     "Support": "",
     "Venue": "The Cluny 2",

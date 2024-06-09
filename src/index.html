@@ -106,7 +106,7 @@
                         style="margin-bottom: 50px;"
                     >
                         <div class="card" style="width: 18rem;" data-id="{{gig.GigID}}">
-                            <img ng-if="gig.image.length > 0" ng-src="/Gigs/{{gig.image}}" class="card-img-top" alt="{{gig.Musician}}">
+                            <img ng-if="gig.image.length > 0" ng-src="/Gigs/{{gig.image}}" ng-class="{'missed':gig.missed}" class="card-img-top" alt="{{gig.Musician}}">
                             <div class="card-header">
                                 {{gig.Musician}}
                             </div>
