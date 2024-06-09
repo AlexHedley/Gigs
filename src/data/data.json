@@ -651,5 +651,17 @@
     "DateAdded": "2024-03-24 14:00:00 +0000",
     "link": "",
     "image": "images/NickHarperMarch2024.jpeg"
+  },
+  {
+    "GigID": 58,
+    "Musician": "The Hives",
+    "Support": "",
+    "Venue": "02 City Hall",
+    "Place": "Newcastle",
+    "GigDate": "2024-03-28T19:00:00+00:00",
+    "Info": "",
+    "DateAdded": "2024-06-09T16:00:00+00:00",
+    "link": "https://www.academymusicgroup.com/o2cityhallnewcastle/events/1427413/hives-death-randy-fitzsimmons-tickets",
+    "image": "images/TheHives.jpeg"
   }
 ]
