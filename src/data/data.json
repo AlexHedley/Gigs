@@ -687,5 +687,17 @@
         "DateAdded": "2024-10-26T23:30:00+00:00",
         "link": "",
         "image": "images/AbePartridge_2024.jpg"
+    },
+    {
+        "GigID": 61,
+        "Musician": "Maxïmo Park",
+        "Support": "The Research",
+        "Venue": "The Boiler Shop",
+        "Place": "Newcastle",
+        "GigDate": "2024-10-26T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "2024-10-26T23:30:00+00:00",
+        "link": "",
+        "image": "images/MaximoPark_2024_2.jpg"
     }
 ]
