@@ -699,5 +699,17 @@
         "DateAdded": "2024-10-26T23:30:00+00:00",
         "link": "",
         "image": "images/MaximoPark_2024_2.jpg"
+    },
+    {
+        "GigID": 62,
+        "Musician": "Jason Isbell and the 400 Unit",
+        "Support": "",
+        "Venue": "The Globe",
+        "Place": "Stockton",
+        "GigDate": "2024-11-24T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "2024-11-29T14:30:00+00:00",
+        "link": "",
+        "image": "images/JasonIsbell_2024.jpeg"
     }
 ]
