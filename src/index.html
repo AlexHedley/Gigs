@@ -54,7 +54,7 @@
 
                         <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                             <ol class="carousel-indicators">
-                                <li ng-repeat="game in games" data-target="#carouselExampleCaptions" data-slide-to="{{$index}}"></li>
+                                <li ng-repeat="gig in list" data-target="#carouselExampleCaptions" data-slide-to="{{$index}}"></li>
                             </ol>
                             <div class="carousel-inner">
                                 <div ng-repeat="gig in list | orderBy:'-GigID'" class="carousel-item" ng-class='{active:$first}'>
@@ -106,7 +106,7 @@
                         style="margin-bottom: 50px;"
                     >
                         <div class="card" style="width: 18rem;" data-id="{{gig.GigID}}">
-                            <img ng-if="gig.image.length > 0" ng-src="/Gigs/{{gig.image}}" ng-class="{'missed':gig.missed}" class="card-img-top" alt="{{gig.Musician}}">
+                            <img ng-if="gig.image.length > 0" ng-src="{{gig.image}}" ng-class="{'missed':gig.missed}" class="card-img-top" alt="{{gig.Musician}}">
                             <div class="card-header">
                                 {{gig.Musician}}
                             </div>
@@ -114,7 +114,7 @@
                                 <h5 class="card-title">{{gig.Venue}}</h5>
                                 <h6 class="card-subtitle mb-2 text-muted">{{gig.Place}}</h6>
                                 <p class="card-text"><div ng-bind-html="gig.Info"></div></p>
-                                <p ng-if="gig.Support.length > 0" class="card-text">{{gig.Support}}</p>
+                                <p ng-if="gig.Support.length > 0" class="card-text"><i>Support:</i> {{gig.Support}}</p>
                             </div>
                             <div class="card-footer text-muted">
                                 {{gig.GigDate | toDate | date:'mediumDate'}}
@@ -131,7 +131,8 @@
 
     <footer class="footer">
         <div class="container">
-            <span class="text-muted">Alex Hedley.</span>
+            <span class="text-muted"><a href="https://AlexHedley.github.io/">Alex Hedley</a></span>
+            <span class="float-right"><i class="fab fa-github"></i> <a href="https://github.com/AlexHedley/Gigs">GitHub</a></span>
         </div>
     </footer>
 

@@ -26,7 +26,13 @@ From: http://alexhedley.com/music/
 
 ## Run
 
-`py -m http.server`
+`cd src`
+
+`py -m http.server -b 127.0.0.1`  
+`python -m http.server -b 127.0.0.1`  
+
+`cd src && py -m http.server -b 127.0.0.1`  
+`cd src && python -m http.server -b 127.0.0.1`  
 
 ## Docs
 

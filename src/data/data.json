@@ -13,6 +13,18 @@
     },
     {
         "GigID": 0,
+        "Musician": "Roger Chapman",
+        "Support": "",
+        "Venue": "Newcastle Opera House",
+        "Place": "Newcastle",
+        "GigDate": "2002",
+        "Info": "",
+        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "link": "",
+        "image": "images/RogerChapman.jpg"
+    },
+    {
+        "GigID": 0,
         "Musician": "Eddi Reader",
         "Support": "Nick Harper",
         "Venue": "The Newcastle Opera House",
@@ -22,6 +34,18 @@
         "DateAdded": "2023-11-19 16:00:00 +0000",
         "link": "",
         "image": "images/EddiReader.jpeg"
+    },
+    {
+        "GigID": 0,
+        "Musician": "Kings Of Leon",
+        "Support": "",
+        "Venue": "Northumbria University",
+        "Place": "Newcastle",
+        "GigDate": "2004-11-27 19:30:00 +0000",
+        "Info": "",
+        "DateAdded": "2025-04-17 20:30:00 +0000",
+        "link": "",
+        "image": ""
     },
     {
         "GigID": 1,
@@ -314,6 +338,18 @@
         "image": "images/TheLakePoets_2016.jpeg"
     },
     {
+        "GigID": 0,
+        "Musician": "Lewis Watson",
+        "Support": "",
+        "Venue": "Think Tank",
+        "Place": "Newcastle",
+        "GigDate": "2017-0328 19:30:00 +0000",
+        "Info": "",
+        "DateAdded": "2025-04-17 20:30:00 +0000",
+        "link": "",
+        "image": "images/LewisWatson.png"
+    },
+    {
         "GigID": 32,
         "Musician": "Dan Owen",
         "Support": "Callum Pitt + Eve Conway",
@@ -360,6 +396,18 @@
         "DateAdded": "2024-03-24 14:00:00 +0000",
         "link": "",
         "image": "images/JohnSmith_2017.png"
+    },
+    {
+        "GigID": 0,
+        "Musician": "The Darkness",
+        "Support": "",
+        "Venue": "02 Academy",
+        "Place": "Newcastle",
+        "GigDate": "2017-11-28",
+        "Info": "Tour de Prance",
+        "DateAdded": "2025-04-17 20:30:00 +0000",
+        "link": "",
+        "image": "images/TheDarkness_2017.jpg"
     },
     {
         "GigID": 35,
@@ -421,10 +469,11 @@
     {
         "GigID": 38,
         "Musician": "John Smith",
+        "Support": "Hannah Read",
         "Venue": "Gosforth Civic Theatre",
         "Place": "Newcastle",
         "GigDate": "2021-09-28 00:00:00 +0000",
-        "Info": "Hannah Read Support",
+        "Info": "",
         "DateAdded": "2022-02-13 11:00:00 +0000"
     },
     {
@@ -439,19 +488,21 @@
     {
         "GigID": 40,
         "Musician": "Jarrod Dickenson",
+        "Support": "Dillon Warnek",
         "Venue": "Gosforth Civic Theatre",
         "Place": "Newcastle",
         "GigDate": "2022-02-12 19:30:00 +0000",
-        "Info": "Dillon Warnek",
+        "Info": "",
         "DateAdded": "2022-02-13 11:00:00 +0000"
     },
     {
         "GigID": 41,
         "Musician": "David Ford",
+        "Support": "Annie Dressner",
         "Venue": "The Old Cinema Laundrette",
         "Place": "Durham",
         "GigDate": "2022-03-12 20:15:00 +0000",
-        "Info": "Annie Dressner",
+        "Info": "",
         "DateAdded": "2022-03-13 22:30:00 +0000"
     },
     {
@@ -678,8 +729,8 @@
     },
     {
         "GigID": 60,
-        "Musician": "David Ford",
-        "Support": "Abe Partridge",
+        "Musician": "Abe Partridge",
+        "Support": "David Ford",
         "Venue": "The Old Cinema Laundrette",
         "Place": "Durham",
         "GigDate": "2024-10-25T19:30:00+00:00",
@@ -711,5 +762,29 @@
         "DateAdded": "2024-11-29T14:30:00+00:00",
         "link": "",
         "image": "images/JasonIsbell_2024.jpeg"
+    },
+    {
+        "GigID": 63,
+        "Musician": "The Darkness",
+        "Support": "Ash",
+        "Venue": "02 City Hall",
+        "Place": "Newcastle",
+        "GigDate": "2025-04-01T19:30:00+00:00",
+        "Info": "Originally Friday 21st March 2025",
+        "DateAdded": "2025-04-17T20:30:00+00:00",
+        "link": "",
+        "image": "images/TheDarkness_2025.jpg"
+    },
+    {
+        "GigID": 64,
+        "Musician": "Duke Special",
+        "Support": "Gareth Dunlop",
+        "Venue": "The Cluny",
+        "Place": "Newcastle",
+        "GigDate": "2025-04-14T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "2025-04-17T20:30:00+0000",
+        "link": "",
+        "image": "images/DukeSpecial_2025.jpg"
     }
 ]
