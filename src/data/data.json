@@ -802,7 +802,7 @@
     {
         "GigID": 66,
         "Musician": "Nati",
-        "Support": "",
+        "Support": "ILI",
         "Venue": "The Cluny",
         "Place": "Newcastle",
         "GigDate": "2025-04-30T19:30:00+00:00",
@@ -811,5 +811,18 @@
         "link": "https://thecluny.com/listing/nati/",
         "image": "images/Nati_2025.jpeg",
         "price": "£14.50"
+    },
+    {
+        "GigID": 67,
+        "Musician": "David Ramirez",
+        "Support": "Tommy Arch",
+        "Venue": "Civic Theatre",
+        "Place": "Gosforth",
+        "GigDate": "2025-05-09T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "2025-05-10T00:10:00+0000",
+        "link": "https://www.gosforthcivictheatre.co.uk/jumpin-hot-club-david-ramirez",
+        "image": "images/DavidRamirez_2025.jpg",
+        "price": "£20"
     }
 ]
