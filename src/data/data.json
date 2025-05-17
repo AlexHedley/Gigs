@@ -824,5 +824,18 @@
         "link": "https://www.gosforthcivictheatre.co.uk/jumpin-hot-club-david-ramirez",
         "image": "images/DavidRamirez_2025.jpg",
         "price": "£20"
+    },
+    {
+        "GigID": 68,
+        "Musician": "Massive Wagons",
+        "Support": "InMe, AirStrike",
+        "Venue": "Newcastle University Students Union",
+        "Place": "Newcastle",
+        "GigDate": "2025-05-16T19:00:00+00:00",
+        "Info": "",
+        "DateAdded": "2025-04-17T13:30:00+0000",
+        "link": "https://www.massivewagons.com/post/2025-uk-shows",
+        "image": "images/MassiveWagons_2025.png",
+        "price": "£25.30"
     }
 ]
