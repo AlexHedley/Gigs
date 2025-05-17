@@ -13,6 +13,13 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
         $http.get(file)
             .then(function(response) {
                 $scope.list = response.data;
+
+                var chartData = getChartData(response.data);
+                setupChart(chartData);
+
+                var chartDataBand = getChartDataBand(response.data);
+                setupChartBand(chartDataBand);
+                chart
             });
     };
 
