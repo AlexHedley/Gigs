@@ -506,6 +506,18 @@
         "DateAdded": "2022-03-13 22:30:00 +0000"
     },
     {
+        "GigID": 0,
+        "Musician": "David Ramirez",
+        "Support": "Kirby Brown",
+        "Venue": "Gosforth Civic Theatre",
+        "Place": "Newcastle",
+        "GigDate": "2022-04-30 20:15:00 +0000",
+        "Info": "",
+        "link": "https://www.gosforthcivictheatre.co.uk/event-details/an-evening-with-david-ramirez",
+        "image": "images/DavidRamirez_2022.jpg",
+        "DateAdded": "2025-05-31 22:30:00 +0000"
+    },
+    {
         "GigID": 42,
         "Musician": "The Bootleg Beatles",
         "Venue": "Sage",
