@@ -3,6 +3,13 @@
 // Date / Year
 getChartData = (data) => {
     var dict = {};
+    
+    // Order by Musician name
+    data.sort(function (a, b) {
+      return a['Musician'] > b['Musician'] ? 1 : -1
+    });
+    // TODO: Order by Count of gigs per musician...
+
     angular.forEach(data, function (value, key) {
         var year = new Date(value.GigDate).getFullYear();
         if (dict.hasOwnProperty(year)) {
