@@ -50,7 +50,7 @@ setupChart = (chartData) => {
 
 // ----- ----- ----- ----- -----
 
-// Stars
+// Band
 getChartDataBand = (data) => {
     var dict = {};
     angular.forEach(data, function (value, key) {

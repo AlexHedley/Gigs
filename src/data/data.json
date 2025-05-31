@@ -837,5 +837,18 @@
         "link": "https://www.massivewagons.com/post/2025-uk-shows",
         "image": "images/MassiveWagons_2025.png",
         "price": "£25.30"
+    },
+    {
+        "GigID": 69,
+        "Musician": "The Swell Season",
+        "Support": "",
+        "Venue": "The Glasshouse",
+        "Place": "Gateshead",
+        "GigDate": "2025-05-29T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "2025-04-25T17:00:00+0000",
+        "link": "https://theglasshouseicm.org/whats-on/the-swell-season-2025/",
+        "image": "images/TheSwellSeason_2025.jpg",
+        "price": "£28.10 to £44.40"
     }
 ]
