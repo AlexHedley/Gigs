@@ -875,5 +875,18 @@
         "link": "https://www.ticketweb.uk/event/nick-harper-support-the-engine-room-tickets/14187053",
         "image": "images/NickHarper_2025.jpg",
         "price": "£17.50"
+    },
+    {
+        "GigID": 71,
+        "Musician": "The Lake Poets",
+        "Support": "Eve",
+        "Venue": "The Old Cinema Laundrette",
+        "Place": "Durham",
+        "GigDate": "2025-08-14T19:00:00+00:00",
+        "Info": "",
+        "DateAdded": "2025-08-15T20:00:00+00:00",
+        "link": "https://wegottickets.com/event/668446",
+        "image": "images/TheLakePoets_2025.jpg",
+        "price": "£20"
     }
 ]
