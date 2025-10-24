@@ -888,5 +888,18 @@
         "link": "https://wegottickets.com/event/668446",
         "image": "images/TheLakePoets_2025.jpg",
         "price": "£20"
+    },
+    {
+        "GigID": 72,
+        "Musician": "David Ford",
+        "Support": "",
+        "Venue": "The Cluny 2",
+        "Place": "Newcastle",
+        "GigDate": "2025-10-20T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "2025-04-25T17:00:00+0000",
+        "link": "https://thecluny.com/listing/david-ford/",
+        "image": "images/DavidFord_2025.jpg",
+        "price": "£18"
     }
 ]
