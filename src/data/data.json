@@ -901,5 +901,18 @@
         "link": "https://thecluny.com/listing/david-ford/",
         "image": "images/DavidFord_2025.jpg",
         "price": "£18"
+    },
+    {
+        "GigID": 73,
+        "Musician": "Counting Crows",
+        "Support": "",
+        "Venue": "O2 City Hall Newcastle",
+        "Place": "Newcastle",
+        "GigDate": "2025-10-23T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "2025-04-25T17:00:00+0000",
+        "link": "https://www.livenation.co.uk/event/counting-crows-newcastle-tickets-edp1573651",
+        "image": "images/CountingCrows_2025.jpg",
+        "price": ""
     }
 ]
