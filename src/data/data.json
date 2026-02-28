@@ -940,5 +940,18 @@
         "link": "https://www.thefirestation.org.uk/whats-on/the-futureheads-at-christmas-ythl",
         "image": "images/TheFutrueheadsAtChristmas_2025.jpg",
         "price": ""
+    },
+    {
+        "GigID": 76,
+        "Musician": "Maximo Park",
+        "Support": "Art Brut",
+        "Venue": "City Hall",
+        "Place": "Newcastle",
+        "GigDate": "2026-02-22T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "",
+        "link": "",
+        "image": "images/MaximoPark_2026.jpg",
+        "price": ""
     }
 ]
