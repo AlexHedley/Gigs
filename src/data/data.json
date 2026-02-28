@@ -892,7 +892,7 @@
     {
         "GigID": 72,
         "Musician": "David Ford",
-        "Support": "",
+        "Support": "Emily Grove, Ed Blunt",
         "Venue": "The Cluny 2",
         "Place": "Newcastle",
         "GigDate": "2025-10-20T19:30:00+00:00",
@@ -914,5 +914,18 @@
         "link": "https://www.livenation.co.uk/event/counting-crows-newcastle-tickets-edp1573651",
         "image": "images/CountingCrows_2025.jpg",
         "price": ""
+    },
+    {
+        "GigID": 74,
+        "Musician": "Colin Hay",
+        "Support": "",
+        "Venue": "Whitley Bay Playhouse",
+        "Place": "Whitley Bay",
+        "GigDate": "2025-11-17T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "",
+        "link": "https://www.playhousewhitleybay.co.uk/events/colin-hay/",
+        "image": "images/ColinHay_2025.jpg",
+        "price": "£52.95"
     }
 ]
