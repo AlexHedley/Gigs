@@ -927,5 +927,18 @@
         "link": "https://www.playhousewhitleybay.co.uk/events/colin-hay/",
         "image": "images/ColinHay_2025.jpg",
         "price": "£52.95"
+    },
+    {
+        "GigID": 75,
+        "Musician": "The Futureheads at Christmas",
+        "Support": "Dave Murray",
+        "Venue": "The Fire Station",
+        "Place": "Sunderland",
+        "GigDate": "2025-12-20T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "",
+        "link": "https://www.thefirestation.org.uk/whats-on/the-futureheads-at-christmas-ythl",
+        "image": "images/TheFutrueheadsAtChristmas_2025.jpg",
+        "price": ""
     }
 ]
