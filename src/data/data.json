@@ -953,5 +953,18 @@
         "link": "",
         "image": "images/MaximoPark_2026.jpg",
         "price": ""
+    },
+    {
+        "GigID": 77,
+        "Musician": "Lucy Rose",
+        "Support": "Margaret Glaspy",
+        "Venue": "The Glasshouse",
+        "Place": "Gateshead",
+        "GigDate": "2026-02-28T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "",
+        "link": "",
+        "image": "images/LucyRose_2026.jpg",
+        "price": ""
     }
 ]
