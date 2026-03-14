@@ -5,9 +5,9 @@
         "Support": "Nick Harper",
         "Venue": "Royal Festival Hall",
         "Place": "London",
-        "GigDate": "2001-06-10 19:30:00 +0000",
+        "GigDate": "2001-06-10T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "",
         "image": "images/RoyHarper_2001.jpeg"
     },
@@ -19,7 +19,7 @@
         "Place": "Newcastle",
         "GigDate": "2002",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "",
         "image": "images/RogerChapman.jpg"
     },
@@ -29,9 +29,9 @@
         "Support": "Nick Harper",
         "Venue": "The Newcastle Opera House",
         "Place": "Newcastle",
-        "GigDate": "2003-05-24 19:30:00 +0000",
+        "GigDate": "2003-05-24T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2023-11-19 16:00:00 +0000",
+        "DateAdded": "2023-11-19T16:00:00+00:00",
         "link": "",
         "image": "images/EddiReader.jpeg"
     },
@@ -41,9 +41,9 @@
         "Support": "",
         "Venue": "Northumbria University",
         "Place": "Newcastle",
-        "GigDate": "2004-11-27 19:30:00 +0000",
+        "GigDate": "2004-11-27T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-17 20:30:00 +0000",
+        "DateAdded": "2025-04-17T20:30:00+00:00",
         "link": "",
         "image": ""
     },
@@ -52,162 +52,162 @@
         "Musician": "Francis Dunnery",
         "Venue": "Tyne Journal Theatre",
         "Place": "Newcastle",
-        "GigDate": "2010-10-25 00:00:00 +0000",
+        "GigDate": "2010-10-25T00:00:00+00:00",
         "Info": "First Time I'd heard anything other than Good Life (from Scrubs) Absolutely amazing, it flew by, could have listened to it all night",
-        "DateAdded": "2010-11-01 00:00:00 +0000"
+        "DateAdded": "2010-11-01T00:00:00+00:00"
     },
     {
         "GigID": 2,
         "Musician": "David Ford",
         "Venue": "The Sage",
         "Place": "Gateshead",
-        "GigDate": "2008-01-29 00:00:00 +0000",
+        "GigDate": "2008-01-29T00:00:00+00:00",
         "Info": "Absolutely Brilliant. It was in Hall 2 which is perfect for a musician like David, felt more like you were in a private gig.",
-        "DateAdded": "2010-11-02 00:00:00 +0000"
+        "DateAdded": "2010-11-02T00:00:00+00:00"
     },
     {
         "GigID": 3,
         "Musician": "A Woman Of No Importance",
         "Venue": "Cluny",
         "Place": "Newcastle",
-        "GigDate": "2009-03-28 00:00:00 +0000",
+        "GigDate": "2009-03-28T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2010-11-03 00:00:00 +0000"
+        "DateAdded": "2010-11-03T00:00:00+00:00"
     },
     {
         "GigID": 4,
         "Musician": "Nick Harper",
         "Venue": "Cluny",
         "Place": "Newcastle",
-        "GigDate": "2010-11-20 00:00:00 +0000",
+        "GigDate": "2010-11-20T00:00:00+00:00",
         "Info": "Absolutely amazing gig, words can't describe but I'll try.\nHe played the Kilty Stone which is my favourite song of all time.\nThere was a considerate break half way through to get drinks (& a smoke :|), don't think that happens much.\nHe got more drunk as the night went on but the playing didn't suffer.\nA great mix of old and new songs with great banter with the audience.\nThe string replacement happened again which never gets old.\nOne thing I love about Live gigs is that fact that not everything is perfect, words were forgotten, notes were missed but if you want it exactly the same just listen to the album.\nI think he needs to release more Live albums as this is where he shines, so many songs aren't done justice on the studio releases ...",
-        "DateAdded": "2010-11-21 13:45:05 +0000"
+        "DateAdded": "2010-11-21T13:45:05+00:00"
     },
     {
         "GigID": 5,
         "Musician": "David Ford",
         "Venue": "The Sage",
         "Place": "Gateshead",
-        "GigDate": "2011-01-30 00:00:00 +0000",
+        "GigDate": "2011-01-30T00:00:00+00:00",
         "Info": "Brilliant as always!\nShame he was only on for about 40 minutes.\nHe did Song For The Road, gotta mention the Angel and tipping your har :)\nHe supported Teddy Thompson who wasn't my taste in music.",
-        "DateAdded": "2011-01-31 04:14:40 +0000"
+        "DateAdded": "2011-01-31T04:14:40+00:00"
     },
     {
         "GigID": 6,
         "Musician": "Jamie Woon",
         "Venue": "The Other Rooms",
         "Place": "Newcastle",
-        "GigDate": "2011-02-28 00:00:00 +0000",
+        "GigDate": "2011-02-28T00:00:00+00:00",
         "Info": "Ghostpoet supported\nAwesome gig :)",
-        "DateAdded": "2011-03-07 05:58:07 +0000"
+        "DateAdded": "2011-03-07T05:58:07+00:00"
     },
     {
         "GigID": 7,
         "Musician": "Elbow",
         "Venue": "Metro Radio Arena",
         "Place": "Newcastle",
-        "GigDate": "2011-03-16 00:00:00 +0000",
+        "GigDate": "2011-03-16T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:09:39 +0000"
+        "DateAdded": "2011-05-08T13:09:39+00:00"
     },
     {
         "GigID": 8,
         "Musician": "Fionn Regan",
         "Venue": "Newcastle University",
         "Place": "Newcastle",
-        "GigDate": "2006-12-11 00:00:00 +0000",
+        "GigDate": "2006-12-11T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:11:19 +0000"
+        "DateAdded": "2011-05-08T13:11:19+00:00"
     },
     {
         "GigID": 9,
         "Musician": "The Futureheads & Friends",
         "Venue": "The Sage",
         "Place": "Gateshead",
-        "GigDate": "2008-12-19 00:00:00 +0000",
+        "GigDate": "2008-12-19T00:00:00+00:00",
         "Info": "Christmas Special",
-        "DateAdded": "2011-05-08 13:12:26 +0000"
+        "DateAdded": "2011-05-08T13:12:26+00:00"
     },
     {
         "GigID": 10,
         "Musician": "McFly",
         "Venue": "City Hall",
         "Place": "Newcastle",
-        "GigDate": "2009-04-26 00:00:00 +0000",
+        "GigDate": "2009-04-26T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:16:19 +0000"
+        "DateAdded": "2011-05-08T13:16:19+00:00"
     },
     {
         "GigID": 11,
         "Musician": "Captain",
         "Venue": "Cluny",
         "Place": "Newcastle",
-        "GigDate": "2008-06-08 00:00:00 +0000",
+        "GigDate": "2008-06-08T00:00:00+00:00",
         "Info": "The JD Set",
-        "DateAdded": "2011-05-08 13:17:24 +0000"
+        "DateAdded": "2011-05-08T13:17:24+00:00"
     },
     {
         "GigID": 12,
         "Musician": "Newton Faulkner",
         "Venue": "Carling Academy",
         "Place": "Newcastle",
-        "GigDate": "2008-02-26 00:00:00 +0000",
+        "GigDate": "2008-02-26T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:18:23 +0000"
+        "DateAdded": "2011-05-08T13:18:23+00:00"
     },
     {
         "GigID": 13,
         "Musician": "Nick Harper",
         "Venue": "Cluny",
         "Place": "Newcastle",
-        "GigDate": "2008-02-14 00:00:00 +0000",
+        "GigDate": "2008-02-14T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:33:07 +0000"
+        "DateAdded": "2011-05-08T13:33:07+00:00"
     },
     {
         "GigID": 14,
         "Musician": "Kaiser Chiefs",
         "Venue": "Metro Radio Arena",
         "Place": "Newcastle",
-        "GigDate": "2007-12-10 00:00:00 +0000",
+        "GigDate": "2007-12-10T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:34:39 +0000"
+        "DateAdded": "2011-05-08T13:34:39+00:00"
     },
     {
         "GigID": 15,
         "Musician": "Klaxons",
         "Venue": "Carling Aademy",
         "Place": "Newcastle",
-        "GigDate": "2007-11-28 00:00:00 +0000",
+        "GigDate": "2007-11-28T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:35:35 +0000"
+        "DateAdded": "2011-05-08T13:35:35+00:00"
     },
     {
         "GigID": 16,
         "Musician": "Sterephonics",
         "Venue": "Metro Radio Arena",
         "Place": "Newcastle",
-        "GigDate": "2007-11-22 00:00:00 +0000",
+        "GigDate": "2007-11-22T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:36:26 +0000"
+        "DateAdded": "2011-05-08T13:36:26+00:00"
     },
     {
         "GigID": 17,
         "Musician": "Ray Lamontagne",
         "Venue": "The Sage",
         "Place": "Gateshead",
-        "GigDate": "2009-02-13 00:00:00 +0000",
+        "GigDate": "2009-02-13T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:37:29 +0000"
+        "DateAdded": "2011-05-08T13:37:29+00:00"
     },
     {
         "GigID": 18,
         "Musician": "Damien Rice",
         "Venue": "Metro Radio Arena",
         "Place": "Newcastle",
-        "GigDate": "2007-10-01 00:00:00 +0000",
+        "GigDate": "2007-10-01T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2011-05-08 13:40:25 +0000"
+        "DateAdded": "2011-05-08T13:40:25+00:00"
     },
     {
         "GigID": 19,
@@ -216,7 +216,7 @@
         "Place": "Newcastle",
         "GigDate": "2007-06-24",
         "Info": "",
-        "DateAdded": "2023-06-19 20:00:00 +0000"
+        "DateAdded": "2023-06-19T20:00:00+00:00"
     },
     {
         "GigID": 20,
@@ -226,7 +226,7 @@
         "Place": "York",
         "GigDate": "2011-04-28",
         "Info": "",
-        "DateAdded": "2023-04-24 12:00:00 +0000",
+        "DateAdded": "2023-04-24T12:00:00+00:00",
         "link": "",
         "image": ""
     },
@@ -235,63 +235,63 @@
         "Musician": "Stuart Francis",
         "Venue": "The Stand",
         "Place": "Newcastle",
-        "GigDate": "2012-04-03 00:00:00 +0000",
+        "GigDate": "2012-04-03T00:00:00+00:00",
         "Info": "Pre gig to test for the upcoming tour, absolutely hilarious!",
-        "DateAdded": "2012-04-07 03:36:38 +0000"
+        "DateAdded": "2012-04-07T03:36:38+00:00"
     },
     {
         "GigID": 22,
         "Musician": "Newton Faulkner",
         "Venue": "Tyne Theatre",
         "Place": "Newcastle",
-        "GigDate": "2012-05-08 00:00:00 +0000",
+        "GigDate": "2012-05-08T00:00:00+00:00",
         "Info": "Brilliant.\nAbsolutely perfected the art.\nCan't wait for the new album",
-        "DateAdded": "2012-05-19 10:45:48 +0000"
+        "DateAdded": "2012-05-19T10:45:48+00:00"
     },
     {
         "GigID": 23,
         "Musician": "Imogen Heap",
         "Venue": "The Sage",
         "Place": "Gateshead",
-        "GigDate": "2012-02-27 00:00:00 +0000",
+        "GigDate": "2012-02-27T00:00:00+00:00",
         "Info": "Film etc",
-        "DateAdded": "2012-05-19 10:47:20 +0000"
+        "DateAdded": "2012-05-19T10:47:20+00:00"
     },
     {
         "GigID": 24,
         "Musician": "VOTT (Voice of the Town)",
         "Venue": "Sage",
         "Place": "Gateshead",
-        "GigDate": "2013-09-04 00:00:00 +0000",
+        "GigDate": "2013-09-04T00:00:00+00:00",
         "Info": "A friend is a member of VOTT, awesome night. Great music, sang and danced along.\n\nRichard John Thompson was support too. (RJ as he goes by now)\n\nNorthern Rock Foundation Hall.",
-        "DateAdded": "2013-09-27 05:51:00 +0000"
+        "DateAdded": "2013-09-27T05:51:00+00:00"
     },
     {
         "GigID": 25,
         "Musician": "David Ford",
         "Venue": "The Cluny",
         "Place": "Newcastle",
-        "GigDate": "2013-11-27 00:00:00 +0000",
+        "GigDate": "2013-11-27T00:00:00+00:00",
         "Info": "Awesome gig as always, no support so 2 50min sets from the main man! Couldn't ask for more.\nLooping was superb.",
-        "DateAdded": "2013-12-07 04:10:37 +0000"
+        "DateAdded": "2013-12-07T04:10:37+00:00"
     },
     {
         "GigID": 26,
         "Musician": "Passenger",
         "Venue": "02 Academy",
         "Place": "Newcastle",
-        "GigDate": "2014-11-27 00:00:00 +0000",
+        "GigDate": "2014-11-27T00:00:00+00:00",
         "Info": "Awesome",
-        "DateAdded": "2015-01-03 06:39:31 +0000"
+        "DateAdded": "2015-01-03T06:39:31+00:00"
     },
     {
         "GigID": 27,
         "Musician": "David Ford",
         "Venue": "The Sage",
         "Place": "Gateshead",
-        "GigDate": "2014-12-05 00:00:00 +0000",
+        "GigDate": "2014-12-05T00:00:00+00:00",
         "Info": "It was The Arrangement EP Tour, I love The Snake song especially.",
-        "DateAdded": "2015-01-03 06:36:25 +0000"
+        "DateAdded": "2015-01-03T06:36:25+00:00"
     },
     {
         "GigID": 28,
@@ -301,16 +301,16 @@
         "GigDate": "2015-04-19",
         "Info": "",
         "Link": "https://alexhedley.wordpress.com/2015/04/23/duke-special-at-sage-gateshead-on-19th-april-2015/",
-        "DateAdded": "2023-06-19 20:00:00 +0000"
+        "DateAdded": "2023-06-19T20:00:00+00:00"
     },
     {
         "GigID": 30,
         "Musician": "David Ford",
         "Venue": "The Cluny",
         "Place": "Newcastle",
-        "GigDate": "2015-05-06 00:00:00 +0000",
+        "GigDate": "2015-05-06T00:00:00+00:00",
         "Info": "First time ever I was a little disappointed.\nThe setup wasn't as great as usual, a few instruments were off and the harmonica broke.\n\nStill great to see him and got a tea towel so all is good.",
-        "DateAdded": "2015-05-24 09:09:53 +0000",
+        "DateAdded": "2015-05-24T09:09:53+00:00",
         "image": "images/DavidFord_2015.png"
     },
     {
@@ -321,7 +321,7 @@
         "Place": "Newcastle",
         "GigDate": "2016-06-14",
         "Info": "",
-        "DateAdded": "2023-04-24 12:00:00 +0000",
+        "DateAdded": "2023-04-24T12:00:00+00:00",
         "link": "",
         "image": "images/Foxes_2016.jpeg"
     },
@@ -333,7 +333,7 @@
         "Place": "Gateshead",
         "GigDate": "2016-12-03",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "https://www.facebook.com/events/s/the-lake-poets-plus-rachel-ser/1574601782843223/",
         "image": "images/TheLakePoets_2016.jpeg"
     },
@@ -343,9 +343,9 @@
         "Support": "",
         "Venue": "Think Tank",
         "Place": "Newcastle",
-        "GigDate": "2017-0328 19:30:00 +0000",
+        "GigDate": "2017-03-28T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-17 20:30:00 +0000",
+        "DateAdded": "2025-04-17T20:30:00+00:00",
         "link": "",
         "image": "images/LewisWatson.png"
     },
@@ -355,9 +355,9 @@
         "Support": "Callum Pitt + Eve Conway",
         "Venue": "Think Tank",
         "Place": "Newcastle",
-        "GigDate": "2017-04-04 19:30:00 +0000",
-        "Info": "£8/£10",
-        "DateAdded": "2023-04-24 12:00:00 +0000",
+        "GigDate": "2017-04-04T19:30:00+00:00",
+        "Info": "\u00a38/\u00a310",
+        "DateAdded": "2023-04-24T12:00:00+00:00",
         "link": "",
         "image": "images/DanOwen_2017.jpeg"
     },
@@ -367,9 +367,9 @@
         "Support": "",
         "Venue": "The Cluny 2",
         "Place": "Newcastle",
-        "GigDate": "2017-04-28 20:00:00 +0000",
-        "Info": "£8/£10",
-        "DateAdded": "2023-06-19 20:00:00 +0000",
+        "GigDate": "2017-04-28T20:00:00+00:00",
+        "Info": "\u00a38/\u00a310",
+        "DateAdded": "2023-06-19T20:00:00+00:00",
         "link": "",
         "image": "images/TheLakePoets_2017.jpeg"
     },
@@ -381,7 +381,7 @@
         "Place": "Newcastle",
         "GigDate": "2017-06-06",
         "Info": "",
-        "DateAdded": "2023-06-19 20:00:00 +0000",
+        "DateAdded": "2023-06-19T20:00:00+00:00",
         "link": "",
         "image": "images/DavidFord_2017.jpeg"
     },
@@ -393,7 +393,7 @@
         "Place": "Gateshead",
         "GigDate": "2017-10-17",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "",
         "image": "images/JohnSmith_2017.png"
     },
@@ -405,7 +405,7 @@
         "Place": "Newcastle",
         "GigDate": "2017-11-28",
         "Info": "Tour de Prance",
-        "DateAdded": "2025-04-17 20:30:00 +0000",
+        "DateAdded": "2025-04-17T20:30:00+00:00",
         "link": "",
         "image": "images/TheDarkness_2017.jpg"
     },
@@ -417,7 +417,7 @@
         "Place": "Newcastle",
         "GigDate": "2018-05-25",
         "Info": "",
-        "DateAdded": "2023-06-19 20:00:00 +0000",
+        "DateAdded": "2023-06-19T20:00:00+00:00",
         "link": "",
         "image": ""
     },
@@ -429,7 +429,7 @@
         "Place": "Gateshead",
         "GigDate": "2019-03-20",
         "Info": "",
-        "DateAdded": "2023-11-19 16:00:00 +0000",
+        "DateAdded": "2023-11-19T16:00:00+00:00",
         "link": "",
         "image": "images/RoyHarper_2019.jpeg"
     },
@@ -441,7 +441,7 @@
         "Place": "Newcastle",
         "GigDate": "2019-10-16",
         "Info": "",
-        "DateAdded": "2023-06-19 20:00:00 +0000",
+        "DateAdded": "2023-06-19T20:00:00+00:00",
         "link": "",
         "image": "images/DavidFord_2019.jpeg"
     },
@@ -451,9 +451,9 @@
         "Support": "",
         "Venue": "The Cluny 2",
         "Place": "Newcastle",
-        "GigDate": "2019-12-03 19:30:00 +0000",
+        "GigDate": "2019-12-03T19:30:00+00:00",
         "Info": "Unplugged & Distilled, got a Christmas decoration beer matt",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "",
         "image": "images/JarrodDickenson_2019.jpeg"
     },
@@ -462,9 +462,9 @@
         "Musician": "The Darkness",
         "Venue": "The O2 Academy, Newcastle",
         "Place": "Newcastle",
-        "GigDate": "2019-12-14 00:00:00 +0000",
+        "GigDate": "2019-12-14T00:00:00+00:00",
         "Info": "Can't not enjoy The Darkness, they played the new album in the first set, then the old favourites for the second. Sang along, great evening. The Rews were support, enjoyed them, got their vinyl, of course.",
-        "DateAdded": "2019-12-15 00:00:00 +0000"
+        "DateAdded": "2019-12-15T00:00:00+00:00"
     },
     {
         "GigID": 38,
@@ -472,18 +472,18 @@
         "Support": "Hannah Read",
         "Venue": "Gosforth Civic Theatre",
         "Place": "Newcastle",
-        "GigDate": "2021-09-28 00:00:00 +0000",
+        "GigDate": "2021-09-28T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2022-02-13 11:00:00 +0000"
+        "DateAdded": "2022-02-13T11:00:00+00:00"
     },
     {
         "GigID": 39,
         "Musician": "Nick Harper",
         "Venue": "The Cluny 2",
         "Place": "Newcastle",
-        "GigDate": "2021-10-10 00:00:00 +0000",
+        "GigDate": "2021-10-10T00:00:00+00:00",
         "Info": "",
-        "DateAdded": "2022-02-13 11:00:00 +0000"
+        "DateAdded": "2022-02-13T11:00:00+00:00"
     },
     {
         "GigID": 40,
@@ -491,9 +491,9 @@
         "Support": "Dillon Warnek",
         "Venue": "Gosforth Civic Theatre",
         "Place": "Newcastle",
-        "GigDate": "2022-02-12 19:30:00 +0000",
+        "GigDate": "2022-02-12T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2022-02-13 11:00:00 +0000"
+        "DateAdded": "2022-02-13T11:00:00+00:00"
     },
     {
         "GigID": 41,
@@ -501,9 +501,9 @@
         "Support": "Annie Dressner",
         "Venue": "The Old Cinema Laundrette",
         "Place": "Durham",
-        "GigDate": "2022-03-12 20:15:00 +0000",
+        "GigDate": "2022-03-12T20:15:00+00:00",
         "Info": "",
-        "DateAdded": "2022-03-13 22:30:00 +0000"
+        "DateAdded": "2022-03-13T22:30:00+00:00"
     },
     {
         "GigID": 0,
@@ -511,20 +511,20 @@
         "Support": "Kirby Brown",
         "Venue": "Gosforth Civic Theatre",
         "Place": "Newcastle",
-        "GigDate": "2022-04-30 20:15:00 +0000",
+        "GigDate": "2022-04-30T20:15:00+00:00",
         "Info": "",
         "link": "https://www.gosforthcivictheatre.co.uk/event-details/an-evening-with-david-ramirez",
         "image": "images/DavidRamirez_2022.jpg",
-        "DateAdded": "2025-05-31 22:30:00 +0000"
+        "DateAdded": "2025-05-31T22:30:00+00:00"
     },
     {
         "GigID": 42,
         "Musician": "The Bootleg Beatles",
         "Venue": "Sage",
         "Place": "Gateshead",
-        "GigDate": "2022-07-15 19:30:00 +0000",
+        "GigDate": "2022-07-15T19:30:00+00:00",
         "Info": "And In The End: With Royal Liverpool Philharmonic Orchestra and The Bootleg Beatles",
-        "DateAdded": "2022-11-03 11:30:00 +0000",
+        "DateAdded": "2022-11-03T11:30:00+00:00",
         "link": "https://sagegateshead.com/whats-on/rlpo-bootleg-beatles/"
     },
     {
@@ -532,9 +532,9 @@
         "Musician": "John Smith & Katherine Priddy",
         "Venue": "The Fire Station",
         "Place": "Sunderland",
-        "GigDate": "2022-11-02 19:30:00 +0000",
+        "GigDate": "2022-11-02T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2022-11-03 11:30:00 +0000",
+        "DateAdded": "2022-11-03T11:30:00+00:00",
         "link": "https://sunderlandculture.org.uk/events/john-smith-katherine-priddy/"
     },
     {
@@ -542,9 +542,9 @@
         "Musician": "Jason Isbell and the 400 Unit",
         "Venue": "02 Apollo",
         "Place": "Manchester",
-        "GigDate": "2022-11-18 19:30:00 +0000",
+        "GigDate": "2022-11-18T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2022-11-20 13:00:00 +0000",
+        "DateAdded": "2022-11-20T13:00:00+00:00",
         "link": "https://www.academymusicgroup.com/o2apollomanchester/events/1312764/jason-isbell-and-400-unit-tickets"
     },
     {
@@ -552,9 +552,9 @@
         "Musician": "Colin Hay",
         "Venue": "Wylam Brewery",
         "Place": "Newcastle",
-        "GigDate": "2023-02-05 19:30:00 +0000",
+        "GigDate": "2023-02-05T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2023-02-11 17:00:00 +0000",
+        "DateAdded": "2023-02-11T17:00:00+00:00",
         "link": "https://www.facebook.com/events/wylam-brewery/colin-hay-plus-special-guests/805618463966935/",
         "image": "images/ColinHay_2023.jpg"
     },
@@ -564,9 +564,9 @@
         "Support": "JP Ruggieri",
         "Venue": "The Cluny 2",
         "Place": "Newcastle",
-        "GigDate": "2023-03-14 19:30:00 +0000",
+        "GigDate": "2023-03-14T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2023-03-15 17:30:00 +0000",
+        "DateAdded": "2023-03-15T17:30:00+00:00",
         "link": "",
         "image": "images/DavidFord_2023.jpg"
     },
@@ -576,9 +576,9 @@
         "Support": "JP Ruggieri",
         "Venue": "The Cluny",
         "Place": "Newcastle",
-        "GigDate": "2023-03-29 20:00:00 +0000",
+        "GigDate": "2023-03-29T20:00:00+00:00",
         "Info": "Big Talk - Full Band Tour",
-        "DateAdded": "2023-04-01 16:30:00 +0000",
+        "DateAdded": "2023-04-01T16:30:00+00:00",
         "link": "",
         "image": "images/JarrodDickenson_2023.jpeg"
     },
@@ -588,9 +588,9 @@
         "Support": "j2oh",
         "Venue": "The Sage",
         "Place": "Gateshead",
-        "GigDate": "2023-06-09 20:00:00 +0000",
+        "GigDate": "2023-06-09T20:00:00+00:00",
         "Info": "",
-        "DateAdded": "2023-06-09 23:00:00 +0000",
+        "DateAdded": "2023-06-09T23:00:00+00:00",
         "link": "https://sagegateshead.com/whats-on/emma-rawicz/",
         "image": "images/EmmaRawicz.jpg"
     },
@@ -600,9 +600,9 @@
         "Support": "",
         "Venue": "The Old Cinema Laundrette",
         "Place": "Durham",
-        "GigDate": "2023-06-17 19:30:00 +0000",
+        "GigDate": "2023-06-17T19:30:00+00:00",
         "Info": "The Southern Gentlemen Tour 2023",
-        "DateAdded": "2023-06-19 20:00:00 +0000",
+        "DateAdded": "2023-06-19T20:00:00+00:00",
         "link": "",
         "image": "images/DavidFord_2023_3.jpg"
     },
@@ -612,9 +612,9 @@
         "Support": "Victoria Canal",
         "Venue": "City Hall",
         "Place": "Newcastle",
-        "GigDate": "2023-07-03 19:00:00 +0000",
+        "GigDate": "2023-07-03T19:00:00+00:00",
         "Info": "Unreal Unearth Tour 2023",
-        "DateAdded": "2023-07-04 08:30:00 +0000",
+        "DateAdded": "2023-07-04T08:30:00+00:00",
         "link": "https://www.academymusicgroup.com/o2cityhallnewcastle/events/1413994/hozier-tickets",
         "image": "images/Hozier_2023.jpg"
     },
@@ -624,9 +624,9 @@
         "Support": "Nati",
         "Venue": "Riverside",
         "Place": "Newcastle",
-        "GigDate": "2023-10-27 19:00:00 +0000",
+        "GigDate": "2023-10-27T19:00:00+00:00",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "https://www.seetickets.com/event/newton-faulkner/the-riverside/2717062",
         "image": "images/NewtonFaulkner_2023.jpg"
     },
@@ -636,9 +636,9 @@
         "Support": "Emily Elbert",
         "Venue": "The Glasshouse",
         "Place": "Gateshead",
-        "GigDate": "2023-11-04 19:30:00 +0000",
+        "GigDate": "2023-11-04T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2023-11-19 16:00:00 +0000",
+        "DateAdded": "2023-11-19T16:00:00+00:00",
         "link": "https://theglasshouseicm.org/whats-on/norah-jones-2023/",
         "image": "images/NorahJones_2023.jpeg"
     },
@@ -648,9 +648,9 @@
         "Support": "",
         "Venue": "The Cluny",
         "Place": "Newcastle",
-        "GigDate": "2023-11-28 19:30:00 +0000",
+        "GigDate": "2023-11-28T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "",
         "image": "images/Nati.jpeg"
     },
@@ -660,9 +660,9 @@
         "Support": "",
         "Venue": "02 City Hall",
         "Place": "Newcastle",
-        "GigDate": "2023-12-07 19:30:00 +0000",
+        "GigDate": "2023-12-07T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "",
         "image": "images/TheDarkness_2023.jpg"
     },
@@ -672,9 +672,9 @@
         "Support": "",
         "Venue": "The Masque",
         "Place": "Liverpool",
-        "GigDate": "2010-04-12 19:30:00 +0000",
+        "GigDate": "2010-04-12T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "",
         "image": ""
     },
@@ -684,9 +684,9 @@
         "Support": "",
         "Venue": "The Old Cinema Laundrette",
         "Place": "Durham",
-        "GigDate": "2024-01-27 19:30:00 +0000",
+        "GigDate": "2024-01-27T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "",
         "image": "images/NickHarperJan2024.jpeg"
     },
@@ -709,9 +709,9 @@
         "Support": "",
         "Venue": "The Cluny 2",
         "Place": "Newcastle",
-        "GigDate": "2024-03-23 19:30:00 +0000",
+        "GigDate": "2024-03-23T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2024-03-24 14:00:00 +0000",
+        "DateAdded": "2024-03-24T14:00:00+00:00",
         "link": "",
         "image": "images/NickHarperMarch2024.jpeg"
     },
@@ -753,7 +753,7 @@
     },
     {
         "GigID": 61,
-        "Musician": "Maxïmo Park",
+        "Musician": "Max\u00efmo Park",
         "Support": "The Research",
         "Venue": "The Boiler Shop",
         "Place": "Newcastle",
@@ -795,7 +795,7 @@
         "Place": "Newcastle",
         "GigDate": "2025-04-14T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-17T20:30:00+0000",
+        "DateAdded": "2025-04-17T20:30:00+00:00",
         "link": "",
         "image": "images/DukeSpecial_2025.jpg"
     },
@@ -807,7 +807,7 @@
         "Place": "Whitley Bay",
         "GigDate": "2025-04-24T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-25T17:00:00+0000",
+        "DateAdded": "2025-04-25T17:00:00+00:00",
         "link": "",
         "image": "images/NewtonFaulkner_2025.jpg"
     },
@@ -819,10 +819,10 @@
         "Place": "Newcastle",
         "GigDate": "2025-04-30T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-25T17:00:00+0000",
+        "DateAdded": "2025-04-25T17:00:00+00:00",
         "link": "https://thecluny.com/listing/nati/",
         "image": "images/Nati_2025.jpeg",
-        "price": "£14.50"
+        "price": "\u00a314.50"
     },
     {
         "GigID": 67,
@@ -832,10 +832,10 @@
         "Place": "Gosforth",
         "GigDate": "2025-05-08T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-05-10T00:10:00+0000",
+        "DateAdded": "2025-05-10T00:10:00+00:00",
         "link": "https://www.gosforthcivictheatre.co.uk/jumpin-hot-club-david-ramirez",
         "image": "images/DavidRamirez_2025.jpg",
-        "price": "£20"
+        "price": "\u00a320"
     },
     {
         "GigID": 68,
@@ -845,10 +845,10 @@
         "Place": "Newcastle",
         "GigDate": "2025-05-16T19:00:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-17T13:30:00+0000",
+        "DateAdded": "2025-04-17T13:30:00+00:00",
         "link": "https://www.massivewagons.com/post/2025-uk-shows",
         "image": "images/MassiveWagons_2025.png",
-        "price": "£25.30"
+        "price": "\u00a325.30"
     },
     {
         "GigID": 69,
@@ -858,10 +858,10 @@
         "Place": "Gateshead",
         "GigDate": "2025-05-29T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-31T17:00:00+0000",
+        "DateAdded": "2025-04-30T17:00:00+00:00",
         "link": "https://theglasshouseicm.org/whats-on/the-swell-season-2025/",
         "image": "images/TheSwellSeason_2025.jpg",
-        "price": "£28.10 to £44.40"
+        "price": "\u00a328.10 to \u00a344.40"
     },
     {
         "GigID": 70,
@@ -871,10 +871,10 @@
         "Place": "North Shields",
         "GigDate": "2025-05-30T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-31T17:00:00+0000",
+        "DateAdded": "2025-04-30T17:00:00+00:00",
         "link": "https://www.ticketweb.uk/event/nick-harper-support-the-engine-room-tickets/14187053",
         "image": "images/NickHarper_2025.jpg",
-        "price": "£17.50"
+        "price": "\u00a317.50"
     },
     {
         "GigID": 71,
@@ -887,7 +887,7 @@
         "DateAdded": "2025-08-15T20:00:00+00:00",
         "link": "https://wegottickets.com/event/668446",
         "image": "images/TheLakePoets_2025.jpg",
-        "price": "£20"
+        "price": "\u00a320"
     },
     {
         "GigID": 72,
@@ -897,10 +897,10 @@
         "Place": "Newcastle",
         "GigDate": "2025-10-20T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-25T17:00:00+0000",
+        "DateAdded": "2025-04-25T17:00:00+00:00",
         "link": "https://thecluny.com/listing/david-ford/",
         "image": "images/DavidFord_2025.jpg",
-        "price": "£18"
+        "price": "\u00a318"
     },
     {
         "GigID": 73,
@@ -910,7 +910,7 @@
         "Place": "Newcastle",
         "GigDate": "2025-10-23T19:30:00+00:00",
         "Info": "",
-        "DateAdded": "2025-04-25T17:00:00+0000",
+        "DateAdded": "2025-04-25T17:00:00+00:00",
         "link": "https://www.livenation.co.uk/event/counting-crows-newcastle-tickets-edp1573651",
         "image": "images/CountingCrows_2025.jpg",
         "price": ""
@@ -926,7 +926,7 @@
         "DateAdded": "",
         "link": "https://www.playhousewhitleybay.co.uk/events/colin-hay/",
         "image": "images/ColinHay_2025.jpg",
-        "price": "£52.95"
+        "price": "\u00a352.95"
     },
     {
         "GigID": 75,
