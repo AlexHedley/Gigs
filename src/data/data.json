@@ -966,5 +966,19 @@
         "link": "",
         "image": "images/LucyRose_2026.jpg",
         "price": ""
+    },
+    {
+        "GigID": 78,
+        "Musician": "Dan Owen",
+        "Support": "",
+        "Venue": "The Cluny 2",
+        "Place": "Newcastle",
+        "GigDate": "2026-03-09T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "",
+        "link": "",
+        "image": "images/DanOwen_2026.png",
+        "price": ""
     }
+    
 ]
