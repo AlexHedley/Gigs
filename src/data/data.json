@@ -979,6 +979,18 @@
         "link": "",
         "image": "images/DanOwen_2026.png",
         "price": ""
+    },
+    {
+        "GigID": 79,
+        "Musician": "The Bros Landreth",
+        "Support": "Begonia",
+        "Venue": "The Cluny",
+        "Place": "Newcastle",
+        "GigDate": "2026-04-14T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "",
+        "link": "",
+        "image": "images/thebroslandreth.png",
+        "price": ""
     }
-    
 ]
