@@ -1014,5 +1014,18 @@
         "link": "",
         "image": "images/thebroslandreth.jpg",
         "price": ""
+    },
+    {
+        "GigID": 80,
+        "Musician": "Ray Lamontagne",
+        "Support": "Natalie Jane Hill",
+        "Venue": "02 City Hall",
+        "Place": "Newcastle",
+        "GigDate": "2026-05-28T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "",
+        "link": "https://www.academymusicgroup.com/o2cityhallnewcastle/events/ray-lamontagne-tickets-ae3746",
+        "image": "images/RayLamontagne_2026.jpg",
+        "price": ""
     }
 ]
