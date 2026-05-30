@@ -1017,6 +1017,19 @@
     },
     {
         "GigID": 80,
+        "Musician": "Ludovico Einaudi",
+        "Support": "Redi Hasa",
+        "Venue": "The Glasshouse",
+        "Place": "Gateshead",
+        "GigDate": "2026-05-01T19:30:00+00:00",
+        "Info": "Solo Piano",
+        "DateAdded": "",
+        "link": "https://theglasshouseicm.org/whats-on/ludovico-einaudi-solo-piano-2026/",
+        "image": "images/LudovicoEinaudi_2026.jpg",
+        "price": ""
+    },
+    {
+        "GigID": 81,
         "Musician": "Ray Lamontagne",
         "Support": "Natalie Jane Hill",
         "Venue": "02 City Hall",
