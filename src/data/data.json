@@ -1040,5 +1040,18 @@
         "link": "https://www.academymusicgroup.com/o2cityhallnewcastle/events/ray-lamontagne-tickets-ae3746",
         "image": "images/RayLamontagne_2026.jpg",
         "price": ""
+    },
+    {
+        "GigID": 82,
+        "Musician": "Anna Lapwood",
+        "Support": "",
+        "Venue": "The Glasshouse",
+        "Place": "Gateshead",
+        "GigDate": "2026-05-29T19:30:00+00:00",
+        "Info": "",
+        "DateAdded": "",
+        "link": "https://theglasshouseicm.org/whats-on/anna-lapwood-2026/",
+        "image": "images/AnnaLapwood_2026.jpg",
+        "price": ""
     }
 ]
